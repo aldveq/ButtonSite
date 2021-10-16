@@ -1,13 +1,10 @@
-    
-
 function Alerta() {
       
-    var mensaje = "Hola, Mi nombre es hiuberst!";
+    const mensaje = "Hola, Mi nombre es hiuberst!";
           
-    if (mensaje) {
+    if ( mensaje ) {
         alert(mensaje);
-    }
-    else {
+    } else {
         alert("=(");
     }
 }
