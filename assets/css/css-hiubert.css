@@ -1,0 +1,14 @@
+.container {
+    width: 13%;
+    height: 30%;
+    position: relative;
+    align-content: center;
+}
+
+.button{
+    padding: 10px 58px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #A45D5D;
+    color: white;    
+}
+
