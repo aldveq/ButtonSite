@@ -2,10 +2,10 @@
 
 function Alerta() {
       
-    var mensaje = confirm("Hola, Mi nombre es hiuberst!");
+    var mensaje = "Hola, Mi nombre es hiuberst!";
           
     if (mensaje) {
-        alert("Funciona");
+        alert(mensaje);
     }
     else {
         alert("=(");
