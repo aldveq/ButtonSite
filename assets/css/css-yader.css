@@ -16,11 +16,12 @@
 }
 
 .content__btn{
+    font-size: 18px;
     padding: 10px 58px;
+    border-radius: 16px;
     background-color: #6A2020;
     color: white;
     border: none;
-    border-radius: 16px;
     transition: all .3s ease-in-out;
 }
 
